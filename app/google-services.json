@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "932567616319",
+    "firebase_url": "https://aublo-27407.firebaseio.com",
+    "project_id": "aublo-27407",
+    "storage_bucket": "aublo-27407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932567616319:android:6454bca492b65c8d",
+        "android_client_info": {
+          "package_name": "com.shoppingapp.aublo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932567616319-7503j2fr525k23so5bcdguepu8m9alvi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shoppingapp.aublo",
+            "certificate_hash": "ea956018398fc033f2f505b9dfa9c32c5d9163a9"
+          }
+        },
+        {
+          "client_id": "932567616319-9scq3laksb2obvgmfn65p1269u1tmc3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQiNJ07YOEFIsWhNPamxsELo9PFC5MFRo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932567616319-9scq3laksb2obvgmfn65p1269u1tmc3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
